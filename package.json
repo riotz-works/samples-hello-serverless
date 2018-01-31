@@ -1,0 +1,19 @@
+{
+  "name": "samples-hello-serverless",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "0.0.31",
+    "@types/node": "^9.4.0",
+    "serverless": "^1.26.0",
+    "serverless-webpack": "^4.0.0",
+    "ts-loader": "^3.4.0",
+    "typescript": "^2.7.1",
+    "webpack": "^3.6.0"
+  },
+  "author": "Riotz Works (http://riotz.works)",
+  "license": "MIT"
+}
