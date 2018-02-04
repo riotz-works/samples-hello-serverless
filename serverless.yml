@@ -16,3 +16,9 @@ functions:
       - http:
           method: get
           path: hello
+  systems:
+    handler: src/handler/systems.handle
+    events:
+      - http:
+          method: get
+          path: version
