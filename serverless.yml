@@ -10,8 +10,8 @@ provider:
   runtime: nodejs6.10
 
 functions:
-  hello:
-    handler: handler.hello
+  greetings:
+    handler: src/handler/greetings.hello
     events:
       - http:
           method: get
