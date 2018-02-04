@@ -8,6 +8,7 @@ This is a simple study project, Hello World with TypeScript and Serverless Frame
 
 This is an application linked with Riotz Works's article (The article is Japanese only).  
 - [Beginning of serverless development with Serverless Framework and TypeScript](http://riotz.works/articles/2018/02/01/ServerlessFramework%E3%81%A8TypeScript%E3%81%A7%E3%82%B5%E3%83%BC%E3%83%90%E3%83%AC%E3%82%B9%E9%96%8B%E7%99%BA%E4%BA%8B%E5%A7%8B%E3%82%81/)
+- [Develop Hello & Version Web API with Serverless Framework and TypeScript](http://riotz.works/articles/2018/02/03/ServerlessFramework%E3%81%A8TypeScript%E3%81%A7Hello%E3%81%A8Version%E3%81%AEWebAPI%E3%82%92%E5%AE%9F%E8%A3%85/)
 
 
 ## Requirements
